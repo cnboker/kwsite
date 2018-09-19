@@ -1,0 +1,11 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+       不同的客户优化的引擎会不一样，如果您的客户是海外客户则选择GOOGLE，国内用BAIDU，如果引擎切换会导致关键字排名数据重置，这点需要注意。
+    </div>
+    <p><img src="images/engine.change.png" alt="代理商租户账号管理" class="img-fluid"/></p>   
+   
+</div>
+
+{% endblock %}

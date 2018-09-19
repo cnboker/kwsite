@@ -1,0 +1,15 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        点击功能图标，显示功能列表，点击我的订单，显示订单列表,在列表区域可以通过时间区间或订单号过滤订单，也可以
+        对未支付的订单做订单取消处理
+        <br/>
+        同时代理商用户可以查看到他自己客户的所以订单
+        </div>
+    <p>
+        <img src="images/orderlist1.png" alt="我的订单" class="img-fluid" />
+    </p>
+    </div>
+
+{% endblock %}

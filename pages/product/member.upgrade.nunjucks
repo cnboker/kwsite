@@ -1,0 +1,18 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+  <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+     点击导航“服务”链接，打开会员升级页面,系统目前包含2种会员等级普通会员和VIP会员，普通会员一次可以添加1个网站和5个关键字做优化；
+     VIP会员对网站个数和关键字没有限制，如果觉得效果好确实帮助到您请升级到VIP会员支持我们。
+     <br>
+     VIP用户服务费199元/月
+     <br>
+     你可以选择按年付费，1999。按年付费更有优惠，相当于买10送2.
+  </div>
+  <p>
+    <img src="images/member.upgrade.png" alt="账号升级"  class="img-fluid" />
+  </p>
+ 
+</div>
+
+{% endblock %}

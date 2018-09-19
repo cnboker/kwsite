@@ -1,0 +1,14 @@
+{% extends "doc_layout.nunjucks" %} {% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        安装遇见360弹框怎办?<br>
+        <br>
+        如果你的电脑上装有360的产品，安装软件的时候可能会有拦截提示。设置为允许通过就可以。这是360自家的产品机制导致的，不是软件的问题，360会对所有没有付费购买他们家安全证书的可执行文件进行报警处理
+    </div>    
+    <p>
+        <img src="images/install.360.png" alt="弹出安装遇见360弹框怎办二维码页面" class="img-fluid" />
+    </p>   
+</div>
+
+{% endblock %}

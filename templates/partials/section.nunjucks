@@ -1,0 +1,9 @@
+<section id="{{section.id}}" class="{{section.class}}">
+        <div class="container">
+        <div class="row">
+            <div class="col-lg-12 mx-auto">
+                {% include (section.file + '.nunjucks') %}
+            </div>
+        </div>
+    </div>
+</section>

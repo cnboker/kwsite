@@ -1,0 +1,20 @@
+{% extends "doc_layout.nunjucks" %} 
+
+{% block doccontent %}
+
+<div class="row">
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        打开网址http://www.kwpolish.com, 网站导航点击下载链接下载客户端软件，安装完成启动程序看到登录页面
+    </div>
+   <p>
+    <img src="images/login.png" class="img-fluid" alt="登录"/>
+        </p>
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">如果还未注册, 点击”注册“按钮进行注册</div>
+    <p>
+    <img src="images/reg.png" class="img-fluid" alt="">
+    </p>
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">忘记密码，点击"重置密码"</div>
+    
+</div>
+
+{% endblock %}

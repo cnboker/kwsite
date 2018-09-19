@@ -1,0 +1,42 @@
+{
+    "title": "ezdsm.com website",
+    "name": "ezdsm",
+    "version": "0.0.1",
+    "description": "html static website",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "scripts": {
+        "start": "./node_modules/gulp/bin/gulp.js"
+    },
+    "homepage": "https://www.ezdsm.com",
+    "bugs": {
+        "url": "https://github.com/cnboker/kwSite",
+        "email": "feedback@startbootstrap.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "scott (http://ioliz.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cnboker/kwSite.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "del": "^3.0.0",
+        "jquery": "3.3.1",
+        "jquery.easing": "^1.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "github:gulpjs/gulp#4.0",
+        "gulp-nunjucks-render": "^2.2.2"
+    }
+}

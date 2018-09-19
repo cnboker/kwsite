@@ -1,0 +1,15 @@
+{% extends "layout.nunjucks" %} {% block content %}
+
+<div class="container" style="margin-top:70px">
+
+    <h2>概述</h2>
+    <div class="shadow-lg p-3 mb-5 bg-white rounded w-100">
+        快准省帮你做推广, 在使用易优软件服务的同时，如果同步开展其它推广工作，效果会更好。
+    特别是竞价广告或者做原创内容，结合使用的效果会倍增。帮企业节省两个专职的普通网络推广员工绰绰有余
+
+    </div>
+
+    {% include "product/member.nunjucks" %}
+    {% include "product/tips.nunjucks" %}
+   
+{% endblock %}
