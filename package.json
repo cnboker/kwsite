@@ -1,6 +1,6 @@
 {
-    "title": "ezdsm.com website",
-    "name": "ezdsm",
+    "title": "kwpolish.com website",
+    "name": "kwpolish",
     "version": "0.0.1",
     "description": "html static website",
     "keywords": [
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "./node_modules/gulp/bin/gulp.js"
     },
-    "homepage": "https://www.ezdsm.com",
+    "homepage": "https://www.kwpolish.com",
     "bugs": {
         "url": "https://github.com/cnboker/kwSite",
         "email": "feedback@startbootstrap.com"
@@ -22,7 +22,7 @@
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "scott (http://ioliz.io/)"
+        "scott (http://kwpolish.com/)"
     ],
     "repository": {
         "type": "git",
@@ -36,7 +36,7 @@
     },
     "devDependencies": {
         "browser-sync": "2.24.5",
-        "gulp": "github:gulpjs/gulp#4.0",
+        "gulp": "4.0",
         "gulp-nunjucks-render": "^2.2.2"
     }
 }

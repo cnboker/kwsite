@@ -2,7 +2,7 @@
 {% block content %} 
  
     {% include "partials/header.nunjucks" %}
-  {% set silderModel =[{className:'active', src:'images/hero1.png', title:'', index:0}] %}
+  {% set silderModel =[{className:'active', src:'images/hero1.jpg', title:'', index:0}] %}
     {% include "partials/siderbar.nunjucks" %}
    
     {% set section={id:'services',file:'service', class:"bg-light"} %} 

@@ -1,7 +1,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
   <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">Kwpolish易优排名系统</a>
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">钢铁侠SEO工具</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -9,10 +9,10 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">      
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#services">优势</a>
+          <a class="nav-link js-scroll-trigger" href="#services">领先优势</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#download">下载</a>
+          <a class="nav-link js-scroll-trigger" href="#download">软件下载</a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#contact">联系方式</a>
